@@ -2,6 +2,7 @@
 //= require jquery
 //= require twitter/bootstrap
 //= require turbolinks
+//= require iframeResizer
 //= require_tree .
 
 // (function($) {
