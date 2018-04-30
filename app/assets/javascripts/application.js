@@ -3,6 +3,7 @@
 //= require twitter/bootstrap
 //= require turbolinks
 //= require iframeResizer
+//= require somethingThatDoensnotExist
 //= require_tree .
 
 // (function($) {
