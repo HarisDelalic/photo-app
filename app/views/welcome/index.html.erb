@@ -1,5 +1,6 @@
 <style>iframe{width: 1px; min-width: 100%}</style>
-<iframe id="myIframe" src="https://harisdela.helpjuice.com" scrolling="no" ></iframe>
+<iframe id="myIframe" src="https://harisdela.helpjuice.com" scrolling="no"></iframe>
+<script>iFrameResize({log:true}, '#myIframe')</script>
 
 <% if current_user %>
   <h3> Welcome: <%= current_user.email %></h3>

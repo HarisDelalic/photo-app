@@ -4,8 +4,9 @@
 //= require turbolinks
 //= require_tree .
 
-(function($) {
-    $(document).ready(function() {
-        $('iframe').iFrameResize({log: true}, '#myIframe');
-    });
-})
+// (function($) {
+//     $(document).ready(function() {
+//         $('iframe').iFrameResize({log: true}, '#myIframe');
+//         console.log($('iframe'))
+//     });
+// })
